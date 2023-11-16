@@ -1,6 +1,6 @@
 module gwlog
 
-go 1.20
+go 1.14
 
 require (
 	gitee.com/arya123/chirpstack-api/go v0.0.0-20231108071833-dd676b09ae9b
